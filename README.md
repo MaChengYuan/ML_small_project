@@ -1,8 +1,8 @@
 # ML_small_project
 machine learning practice zone for different area
 
-## market
+## marketing
 [market](marketing/README.md)
 
 ## nature
-[nature](marketing/README.md)
+[nature](nature/README.md)
