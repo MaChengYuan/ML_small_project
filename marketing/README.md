@@ -20,6 +20,7 @@ Linear regression shows the best score in all metrics, followed by XGB and rando
 
 dataset source is from https://www.kaggle.com/datasets/sdolezel/black-friday
 
+
 ## Retail Store Sales Transactions
 **motivation** :
 
