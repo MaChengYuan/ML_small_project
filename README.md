@@ -1,8 +1,8 @@
 # ML_small_project
 machine learning practice zone for different area
 
-##market
-###Black Friday 
+## market
+### Black Friday 
 **motivation** :
 Simple Pyspark implementation for black friday datasets for practicing distributed computing framework 
 for large-scale data processing
