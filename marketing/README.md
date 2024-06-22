@@ -1,4 +1,4 @@
-# market
+# marketing
 ## Black Friday 
 **motivation** :
 
