@@ -1,5 +1,6 @@
 # marketing
-## [Black Friday](marketing/Black Friday.ipynb)
+## [Black Friday]("marketing/Black Friday.ipynb")
+[market](marketing/README.md)
 **motivation** :
 
 Simple Pyspark implementation for black friday datasets for practicing distributed computing framework 
