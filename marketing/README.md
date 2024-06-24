@@ -1,6 +1,5 @@
 # marketing
 ## [Black Friday](marketing/Black_Friday.ipynb)
-[market](marketing/README.md)
 **motivation** :
 
 Simple Pyspark implementation for black friday datasets for practicing distributed computing framework 
@@ -22,7 +21,7 @@ Linear regression shows the best score in all metrics, followed by XGB and rando
 dataset source is from https://www.kaggle.com/datasets/sdolezel/black-friday
 
 
-## [Retail Store Sales Transactions](marketing/Pyspark_Retail Store Sales Transactions.ipynb)
+## [Retail Store Sales Transactions](marketing/Pyspark_Retail_Store_Sales_Transactions.ipynb)
 
 **motivation** :
 
