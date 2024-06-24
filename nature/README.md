@@ -1,5 +1,5 @@
 # nature
-## [Flood Prediction](nature/Flood detection.ipynb)
+## [Flood Prediction](nature/Flood_detection.ipynb)
 ### Motivation :
 The flood precaution is a critical issue for any city, any flood happening could bring disastrous result with millions of financial
 damage not just for public but also individual.
