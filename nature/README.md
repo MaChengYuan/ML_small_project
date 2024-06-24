@@ -13,7 +13,7 @@ RiverManagement in numeric format.
 
 ### result :
 Linear model show overfitting result which could not reflect the performance in test datasets, while in training datasets the model
-could show 0.83 R2 scoresf, in testing datasets each model only show 50% accuracy which means the model predict unseen datasets 
+could show 0.83 R2 scores, in testing datasets each model only show 50% accuracy which means the model predict unseen datasets 
 randomly
 
 
