@@ -1,5 +1,5 @@
 # marketing
-## Black Friday 
+## [Black Friday](marketing/Black Friday.ipynb)
 **motivation** :
 
 Simple Pyspark implementation for black friday datasets for practicing distributed computing framework 
@@ -21,7 +21,8 @@ Linear regression shows the best score in all metrics, followed by XGB and rando
 dataset source is from https://www.kaggle.com/datasets/sdolezel/black-friday
 
 
-## Retail Store Sales Transactions
+## [Retail Store Sales Transactions](marketing/Pyspark_Retail Store Sales Transactions.ipynb)
+
 **motivation** :
 
 this notebook shows the work of categorizing different customer groups of clients by using pandas and pyspark
@@ -34,3 +35,6 @@ different level could help sellers to better make marketing strategies to follow
 **result** :
 Kmeans cluster and rfm categorization (recency , frequency and monetary value) are used for comparison
 In the result of RFM cluster , itshow that tier 1 and 2 should be main target due to its frequency and monetary value
+
+dataset source is from https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions
+
