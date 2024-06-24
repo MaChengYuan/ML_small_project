@@ -1,5 +1,5 @@
 # marketing
-## [Black Friday]("marketing/Black Friday.ipynb")
+## [Black Friday](marketing/Black_Friday.ipynb)
 [market](marketing/README.md)
 **motivation** :
 
